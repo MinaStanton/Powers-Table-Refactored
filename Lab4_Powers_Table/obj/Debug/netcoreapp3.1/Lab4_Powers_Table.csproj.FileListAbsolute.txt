@@ -1,0 +1,13 @@
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.exe
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.deps.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.runtimeconfig.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.runtimeconfig.dev.json
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.dll
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\bin\Debug\netcoreapp3.1\Lab4_Powers_Table.pdb
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.csprojAssemblyReference.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.csproj.CoreCompileInputs.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.AssemblyInfoInputs.cache
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.AssemblyInfo.cs
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.dll
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.pdb
+C:\Users\stant\OneDrive\Documents\Bootcamp2020\Labs\Lab4_Powers_Table\Lab4_Powers_Table\obj\Debug\netcoreapp3.1\Lab4_Powers_Table.genruntimeconfig.cache
